@@ -42,7 +42,7 @@
 - 📚 Постоянно изучаю новые технологии, чтобы идти в ногу с трендами.
 
 ## Связаться со мной
-- <div id="badges">
+<div id="badges">
   <a href="[your-telegram-URL](https://t.me/reagemt)">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram"/></a>
 </div>
