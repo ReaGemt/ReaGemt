@@ -76,7 +76,9 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Статистика :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ReaGemt&theme=dark&ring=ff9600&fire=ff5400&currStreakLabel=ffdd00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ReaGemt&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReaGemt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
