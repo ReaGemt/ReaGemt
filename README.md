@@ -75,7 +75,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ReaGemt)
+https://github-readme-streak-stats.herokuapp.com/?user=ReaGemt)
 
 
 
