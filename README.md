@@ -14,4 +14,6 @@
   </a>
 </div>
 
+<div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=ReaGemt&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
