@@ -20,7 +20,7 @@
 ## :man_technologist: Привет, я Python-программист!
 
 ## О себе
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я разработчик с опытом работы над Frontend и Backend для создания современных веб-приложений. Вот инструменты и технологии, которые я использую в своей работе:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я разработчик с опытом работы над Frontend и Backend для создания современных веб-приложений. Вот некоторые инструменты и технологии, которые я использую в своей работе:
 - **Backend**: Django, Flask
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript
 - **Базы данных**: PostgreSQL, MySQL, SQLite
